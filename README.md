@@ -1,4 +1,4 @@
-# Credit-Card-Validation-
+# CreditCardValidation
 COS230a Java
 Write a program that prompts the user to enter a Credit card numer and displays Valid Credit Card if the rules are followed or Invalid Credit Card otherwise.
 
